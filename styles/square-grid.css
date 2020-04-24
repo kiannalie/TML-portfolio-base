@@ -30,3 +30,8 @@
 .square > .square-text-wrapper h1 {
     color: #3E5C72;
 }
+
+.spacerBlock{
+    width: 100%;
+    height: 10vh;
+}
