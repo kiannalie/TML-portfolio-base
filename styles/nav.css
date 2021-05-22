@@ -3,18 +3,12 @@
   height: 190px;
   background-color: #fdf4f1;
   color: black;
-  /* Flexbox container */
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 60px 100px;
 }
-
 /* Left column styles */
-.navigation-wrapper > .left-column {
-  display: flex;
-  align-items: center;
-}
 
 .navigation-wrapper > .left-column > .icon {
   margin-right: 15px;
@@ -44,10 +38,6 @@
 /* Center column styles */
 
 /* Right column styles */
-.navigation-wrapper > .right-column {
-  display: flex;
-  align-items: center;
-}
 
 .navigation-wrapper > .right-column > .address-wrapper {
   font-family: "Open Sans", sans-serif;
